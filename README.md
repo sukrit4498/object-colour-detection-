@@ -1,2 +1,2 @@
-# object-colour-detection-
+# object-colour-detection
 Object colour detection using openCV 
